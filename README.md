@@ -1,7 +1,7 @@
-Cartographing AI in Greece
+### Cartographing AI in Greece
 
 
-### Education
+## Education
 
 Πανεπιστήμιο Μακεδονίας https://www.uom.gr/aida
 
@@ -26,7 +26,7 @@ Cartographing AI in Greece
 Χαροκόπειο Πανεπιστήμιο https://mschealth.dit.hua.gr/course/artificial-intelligence-and-deep-learning-in-healthcare/
 
 
-### Research centers
+## Research centers
 
 https://archimedesai.gr/en/
 
