@@ -31,3 +31,10 @@
 https://archimedesai.gr/en/
 
 https://www.demokritos.gr/
+
+## Industry
+
+[Ubitech](https://ubitech.eu/)
+
+[AIandMe](https://aiandme.io/index.html)
+
